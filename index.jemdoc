@@ -1,0 +1,78 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: title{Quoc-Viet PHAM}
+= Quoc-Viet PHAM
+
+~~~
+{}{img_left}{phamquocviet.jpg}{}{180px}{225px}{}
+[https://d4adb48838cafe8c2ce86aae0de185a8f5aa968b.googledrive.com/host/0B5DkSWdAATW6Wl9JaGg4QVBCV1k/index.html Quoc-Viet PHAM]
+({{<a href="http://vietnam.vn/"><img src="Flag_of_Vietnam.png" alt="NZ" /></a>}}) \n
+Research Professor, Ph.D. \n 
+[Research Institute of Computer, Information and Communication] \n
+[http://www.pusan.ac.kr/eng/ Pusan National University] \n
+\n
+{{<div id="Contact">}}
+== Contact
+310, Advanced Biomedical Convergence (ABC) Center, Pusan National University, \n
+Yangsan Campus, 49, Busandaehak-ro, Mulgeum-eup, Yangsan-si, \n
+Gyeongsangnam-do, Republic of Korea \n
+Email: [vietpq90@gmail.com]/[vietpq@pusan.ac.kr]
+
+{{<div id="Education">}}
+== Education
+- HSDG Donggia High School, Haiduong, Vietnam, 2008.
+- B.S. Electronics and Telecommunications, [http://fet.hust.edu.vn/index.php/en School of Electronics and Telecommunications], [http://en.hust.edu.vn/home Hanoi University of Science and Technology], Vietnam, 2013.
+	-- Major: Electronics and Telecommunications
+	-- Thesis: Building an observational data processing and archiving center for automatic water level gathering and alarming system (in Vietnamese)
+- M.S. Computer Sciences, [http://cnl.inje.ac.kr/ Computer Network Lab], [http://www.inje.ac.kr/ Inje University], Korea, 2015.
+	-- Major: Wireless Networks and Communications
+	-- Thesis: Multi-Timescale Cross-Layer Designs for Wireless Multihop Networks
+- Ph.D. Computer Sciences, [http://cnl.inje.ac.kr/ Wireless Networks Laboratory], [http://www.inje.ac.kr/ Inje University], Korea, 2015-2017.
+	-- Major: Wireless Networks and Communications
+	-- Thesis: Energy-Efficient Resource Allocation in Future Wireless Networks
+{{</div>}}	
+
+{{<div id="News">}}
+== News
+~~~
+- Our paper submitted to the IEEE transaction on vehicular technology has been under revision. \n
+- I am going to have a qualification exam in 25th March 2017.  \n
+- I am preparing for the PhD dissertation and the final defense is within May 2017. \n
+- I am looking for the Post-Doc position in the area of wireless networks. 
+{{</div>}}
+
+{{<div id="Fields of Research Interest">}}
+== Fields of Research Interest
+- Cross-layer designs for multi-hop wireless networks
+- Resource allocation in wireless networks
+- Resource allocation in complex communication networks
+{{</div>}}
+
+{{<div id="Research Methods">}}
+== Research Methods
+- Network Optimization
+- Game Theory
+{{</div>}}
+
+{{<div id="Journal publications">}}
+== Journal publications
+- Q.-V. Pham and W.-J. Hwang, "Energy-Efficient Power Control in Uplink Spectrum-Sharing Heterogeneous Networks", *under review*,/Computer Networks/, 2017.
+- Q.-V. Pham and W.-J. Hwang, "Fairness-Aware Spectral and Energy Efficiency in Spectrum-Sharing Wireless Networks", *major revision*, /IEEE Transactions on Vehicular Technology/, 2017.
+- Q.-V. Pham and W.-J. Hwang, "Fairness-Aware Resource Allocation in Non-Orthogonal Multiple Access Systems", in preparation.
+- F. Boabang, Q.-V. Pham, H.-H. Nguyen, W.-J. Hwang, "Network-assisted Distributed Fairness-aware Interference Coordination for Device to Device Communication Underlaid Cellular networks", /Mobile Information Systems/, Vol. 2017, pp. 1-11, 2017.
+- Q.-V. Pham and W.-J. Hwang, “Network Utility Maximization based Congestion Control over Wireless Networks: A Survey and Potential Directives,” *in press*, /IEEE Communications Surveys & Tutorials/, Nov. 2016.
+- Q.-V. Pham and W.-J. Hwang, “Resource Allocation for Heterogeneous Traffic in Complex Communication Networks,” /IEEE Transactions on Circuits and Systems II - Express Brief/, vol. 63, no. 10, pp. 959-963, Oct. 2016.
+- Q.-V. Pham, H. L. To, and W.-J. Hwang, “A Multi-Timescale Cross-Layer Approach for Wireless Ad Hoc Networks,” Vol. 18, pp. 471-482, Sep. 2015.
+- Q.-V. Pham, H. Kim, and W.-J. Hwang, “Globally Optimal Solutions for Cross-Layer Design in Fast-Fading Lossy Delay-Constrained MANETs,” /Journal of Korea Multimedia Society/, vol. 18, no. 2, pp. 168–177, Feb 2015. 
+- Q.-V. Pham and W.-J. Hwang, “Network Utility Maximization in Multipath Lossy Wireless Networks,” *in press*, /International Journal of Communications and System/, Aug. 2015.
+{{</div>}}
+
+{{<div id="Conferences and Proceedings">}}
+== Conferences and Proceedings
+- Q.-V. Pham and W.-J. Hwang, Outage Constrained Resource Allocation for Energy Efficiency in Coordinated Multicell OFDMA Networks, /Japan-Korea Joint Workshop on Complex Communication Sciences (KJCCS2016)/, Oct. 2016. (*Best paper award*)
+- Q.-V. Pham, M. Hasegawa and W.-J. Hwang, An Energy-Efficient Resource Allocation in Ad Hoc Networks, /Korea-Japan Joint Workshop on Complex Communication Sciences (KJCCS2016)/, Jan. 2016.
+- Q.-V. Pham, A. Radwan, W.-J. Hwang, Optimal Resource Allocation for Energy Efficiency in Uplink Heterogeneous Networks, /Proceedings of The 2015 Fall Conference of KMMS (Korea MultimediaSociety)/, vol. 18, no. 2, Nov. 2015.
+- Q.-V. Pham, A. Radwan, W.-J. Hwang, Hop-by-Hop Rate Control in Multipath Lossy Wireless Networks, /Proceedings of The 2015 Spring Conference of KMMS (Korea MultimediaSociety)/, vol. 18, no. 1, May. 2015.
+- Q.-V. Pham, W.-J. Hwang, A Novel Cross-Layer Design for Fast-Fading Multihop Wireless Networks, /Proceedings of The 2014 Fall Conference of KMMS (Korea MultimediaSociety)/, vol. 17, no.2, Nov. 2014. (*Best paper award*)
+- Q.-V. Pham, W.-J. Hwang, A Novel Handover Algorithm in LTE Small Cell Networks, /Proceedings of The 2014 Spring Conference of KMMS (Korea MultimediaSociety)/, vol. 17, no. 1, May. 2014.
+- Q.-V. Pham, W.-J. Hwang, Joint Inter-cell Interference Management and Mobility-aware Prediction in LTE Femtocell Networks,  /Proceedings of The 2013 Fall Conference of KMMS (Korea MultimediaSociety)/, vol.16, no.2, Nov. 2013.
+~~~
