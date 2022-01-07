@@ -28,9 +28,9 @@ Research Professor, Ph.D. \n
 - \[01/2022\] Our work on [https://ieeexplore.ieee.org/document/9569742 blockchain for edge of things] edge computing + IoT) has been published by the IEEE Internet of Things Journal. \n
 - \[12/2021\] I have received the golden globe award 2021 from the Ministry of Science and Technology, Vietnam. \n
 - \[12/2021\] I have received an award from the Minister of Education (Korea) for outstanding contributions and research excellence. \n
-- \[10/2021\] Massive congratulations to [tu.nguyen@nu.edu.kz Dr. Tu Nguyen]. We won the FDCRGP Grant (\$135,000 for 2022-2024) for our research on Edge Learning for Video Surveillance. \n
+- \[10/2021\] [aaa {{<font color=red size=+0.5>}}*Hot!!!*{{</font>}}] We won the FDCRGP Grant (\$135,000 for 2022-2024) for our research on Edge Learning for Video Surveillance (PI: [tu.nguyen@nu.edu.kz Dr. Tu Nguyen]). \n
 - \[10/2021\] Our work on [https://ieeexplore.ieee.org/document/9584850 DRL for energy-efficient FL-UAV] has been accepted by the IEEE Communications Letters. \n
-- \[10/2020] One postdoc position is available in my research group. Please contact me or [wjhwang@pusan.ac.kr prof. Won-Joo Hwang] if you are interested. \n
+- \[10/2020\] One postdoc position is available in my research group. Please contact me or [wjhwang@pusan.ac.kr prof. Won-Joo Hwang] if you are interested. \n
 - \[09/2021\] Our work on [https://ieeexplore.ieee.org/document/9555379 fog computing for vehicular networks] has been accepted by the IEEE Transactions on Vehicular Technology. \n
 - \[08/2021\] Our works on [https://ieeexplore.ieee.org/document/9528850 secrecy cooperative NOMA] and [https://ieeexplore.ieee.org/document/9525446 UAV communications] have been accepted by the IEEE Internet of Things Journal. \n
 - \[08/2021\] Our collaborative work on [https://ieeexplore.ieee.org/abstract/document/9514563 reconfigurable intelligent surfaces] has been accepted by the IEEE Transactions on Communications. \n
@@ -42,13 +42,29 @@ Research Professor, Ph.D. \n
 - \[02/2021\] Congratulations to Dr. Ming for his IEEE WCL paper on [https://ieeexplore.ieee.org/document/9369326 energy-efficient IRS] and and N. Iradukunda for her paper on [https://ieeexplore.ieee.org/document/9364991 UAV-NOMA wireless backhaul]. \n
 - \[02/2021\] Great news! Our survey on [https://ieeexplore.ieee.org/document/9358097 aerial radio access networks] has been accepted for publication in the IEEE Communications Surveys and Tutorials. \n
 - \[01/2021\] I have received the [Rv_Award_TVT_2020.pdf Top Reviewer Award] from IEEE Transactions on Vehicular Technology in 2020.
-- \[10/2020\] HOT!!! I have been invited as an editor of the [https://www.journals.elsevier.com/journal-of-network-and-computer-applications Journal of Network and Computer Applications] [Q1, IF 6.281]
+- \[10/2020\] [aaa {{<font color=red size=+0.5>}}*Hot!!!*{{</font>}}] I have been invited as an editor of the [https://www.journals.elsevier.com/journal-of-network-and-computer-applications Journal of Network and Computer Applications] [Q1, IF 6.281]
 - \[10/2019\] My paper on [https://ieeexplore.ieee.org/document/8917566 MEC-NOMA using coalitional games] has been published by the IEEE Transactions on Vehicular Technology.
-- \[12/2018\] Congratulations!!! for a new 5-years project from Korea NRF.
+- \[12/2018\] [aaa {{<font color=red size=+0.5>}}*Hot!!!*{{</font>}}] I have received a 5-year project from Korea NRF (Feb. 2019 - Feb. 2024).
+{{</div>}}
+
+{{<div id="Selected Publication">}}
+== Selected Publication [publication.html {{<font color=red size=+0.5>}}*(Full Publication)*{{</font>}}]
+. T. R. Gadekallu, Q.-V. Pham, D. C. Nguyen, P. K. R. Maddikunta, N. Deepa, B. Prabadevi, P. N. Pathirana, J. Zhao, and W.-J. Hwang, "[https://ieeexplore.ieee.org/document/9569742 Blockchain for Edge of Things: Applications, Opportunities, and Challenges]," /IEEE Internet of Things Journal/, vol. 9, no. 2, pp. 964-988, Jan. 2022.
+. L. Nkenyereye, L. Nkenyereye, Q.-V. Pham, and J. S. Song, "[https://ieeexplore.ieee.org/document/9555379 Efficient RSU Selection Scheme for Fog-based Software-Defined Vehicular Network]," /IEEE Transactions on Vehicular Technology/, vol. 70, no. 11, pp. 12126-12141, Nov. 2021.
+. T. Huynh-The, C.-H. Hua, V.-S. Doan, Q.-V. Pham, and D.-S. Kim, "[https://ieeexplore.ieee.org/document/9475953 Accurate Deep CNN-based Waveform Recognition for Intelligent Radar Systems]," /IEEE Communications Letters/, vol. 25, no. 9, pp. 2938-2942, Sep. 2021.
+. T. Huynh-The, V.-S. Doan, C.-H. Hua, Q.-V. Pham, T.-V. Nguyen, and D.-S. Kim, "[https://ieeexplore.ieee.org/document/9416299 Accurate LPI Radar Waveform Recognition with CWD-TFA for Deep Convolutional Network]," /IEEE Wireless Communications Letters/, vol. 10, no. 8, pp. 1638-1642, Aug. 2021.
+. L. Nkenyereye, J. Y. Hwang, Q.-V. Pham, and J. S. Song, "[https://ieeexplore.ieee.org/document/9324778 Virtual IoT Service Slice Functions for Multi-Access Edge Computing Platform]," /IEEE Internet of Things Journal/, vol. 8, no. 14, pp. 11233-11248, Jul. 2021.
+. L. Nkenyereye, J. Y. Hwang, Q.-V. Pham, and J. S. Song, "[https://ieeexplore.ieee.org/document/9360665 MEIX: Evolving Multi-Access Edge Computing for Industrial Internet-of-Things Services]," /IEEE Network/, vol. 35, no. 3, pp. 147-153, May/Jun. 2021.
+. N.-N. Dao, Q.-V. Pham, N. H. Tu, T. T. Thanh, V. N. Q. Bao, D. S. Lakew, and S. Cho, "[https://ieeexplore.ieee.org/document/9358097 Survey on Aerial Radio Access Networks: Toward a Comprehensive 6G Access Infrastructure]," /IEEE Communications Surveys and Tutorials/, vol. 23, no. 2, pp. 1193-1225, Second Quarter 2021.
+. Q.-V. Pham, M. Zeng, R. Ruby, T. Huynh-The, and W.-J. Hwang, "[https://ieeexplore.ieee.org/document/9374105 UAV Communications for Sustainable Federated Learning]," /IEEE Transactions on Vehicular Technology/, vol. 70, no. 4, pp. 3944-3948, Apr. 2021.
+. Q.-V. Pham, F. Fang, V. N. Ha, M. J. Piran, M. Le, L. B. Le, W.-J. Hwang, and Z. Ding, "[https://ieeexplore.ieee.org/document/9113305 A Survey of Multi-Access Edge Computing in 5G and Beyond: Fundamentals, Technology Integration, and State-of-the-Art]," /IEEE Access/, vol. 8, pp. 116974-117017, Jun. 2020.
+. Q.-V. Pham, S. Mirjalili, N. Kumar, M. Alazab, and W.-J. Hwang, "[https://ieeexplore.ieee.org/document/8993843 Whale Optimization Algorithm with Applications to Resource Allocation in Wireless Networks]," /IEEE Transactions on Vehicular Technology/, vol. 69, no. 4, pp. 4285-4297, Apr. 2020.
+. T. Huynh-The, C.-H. Hua, Q.-V. Pham, and D.-S. Kim, "[https://ieeexplore.ieee.org/document/8963964 MCNet: An Efficient CNN Architecture for Robust Automatic Modulation Classification]," /IEEE Communications Letters/, vol. 24, no. 4, pp. 811-815, Apr. 2020.
+. Q.-V. Pham, Hoang T. Nguyen, Z. Han, and W.-J. Hwang, "[https://ieeexplore.ieee.org/document/8917566 Coalitional Games for Computation Offloading in NOMA-Enabled Multi-Access Edge Computing]," /IEEE Transactions on Vehicular Technology/, vol. 69, no. 2, pp. 1982-1993, Feb. 2020.
 {{</div>}}
 
 {{<div id="About Me">}}
-== About Me
+== About Me [Curriculum_Vitae_PHAM.pdf {{<font color=red size=+0.5>}}*(Curriculum Vitae)*{{</font>}}]
 Quoc-Viet Pham (M'18) received the B.S. degree in electronics and telecommunications engineering from the Hanoi University of Science and Technology, Vietnam, in 2013, and the Ph.D. degree in telecommunications engineering from Inje University, Republic of Korea, in 2017. He has been a Research Professor with Pusan National University, Republic of Korea, since Feb. 2020.
 
 He is specialized in applying convex optimization, game theory, and machine learning to analyze and optimize edge computing and future wireless communications. He has been granted the Korea NRF Funding for outstanding young researchers for the term 2019–2024. He has been a TPC/TPC chair for leading conferences, including IEEE ICC, IEEE VTC, and EAI GameNets. He is an editor of the Journal of Network and Computer Applications (Elsevier), an associate editor of the Frontiers in Communications and Networks, and a lead guest editor of the IEEE Internet of Things Journal. He was also the recipient of the Best Ph.D. Dissertation Award in engineering from Inje University in 2017, the Top Reviewer Award from the IEEE Transactions on Vehicular Technology in 2020, the golden globe award 2021 from the Ministry of Science and Technology (Vietnam), and the award for outstanding contributions and research excellence from Minister of Education (Korea) in 2021.
