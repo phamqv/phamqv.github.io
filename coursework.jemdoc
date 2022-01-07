@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{coursework.html}
+# jemdoc: title{Courseworks}
+= Courseworks
+
+
+{{<div id="Courseworks">}}
+== Courseworks
+- Network Optimization: [https://web.stanford.edu/~boyd/cvxbook/]
+- Game Theory in Wireless and Communication Networks: [http://www2.egr.uh.edu/~zhan2/game_theory_course/]
+- Selected Topics on Optimization: [http://wireless.egr.uh.edu/Optimization/index.htm]
+- Introduction to Deep Learning: [https://courses.d2l.ai/berkeley-stat-157/index.html https://courses.d2l.ai\/berkeley-stat-157/index.html]
+- Introduction to Machine Learning: [http://ee104.stanford.edu/ http://ee104.stanford.edu/]
+- Introduction to Reinforcement Learning: [https://web.stanford.edu/class/cs234/ https://web.stanford.edu\/class\/cs234/]
+- Introduction to Applied Linear Algebra: [https://web.stanford.edu/~boyd/vmls/ https://web.stanford.edu\/~boyd\/vmls/]
+{{</div>}}
+
+{{<div id="Ebooks">}}
+== Ebooks
+- Convex Optimization: [https://web.stanford.edu/~boyd/cvxbook/ https://web.stanford.edu\/~boyd\/cvxbook/]
+- Reinforcement Learning: [http://www.incompleteideas.net/book/the-book-2nd.html http://www.incompleteideas.net\/book\/the-book-2nd.html]
+- Dive into Deep Learning: [https://d2l.ai/ https:\/\/d2l.ai/ ]

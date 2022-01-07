@@ -3,76 +3,52 @@
 = Quoc-Viet PHAM
 
 ~~~
-{}{img_left}{phamquocviet.jpg}{}{180px}{225px}{}
-[https://d4adb48838cafe8c2ce86aae0de185a8f5aa968b.googledrive.com/host/0B5DkSWdAATW6Wl9JaGg4QVBCV1k/index.html Quoc-Viet PHAM]
+{}{img_left}{Portrait_Viet.jpg}{}{180px}{225px}{}
+[vietpq@pusan.ac.kr Quoc-Viet PHAM]
 ({{<a href="http://vietnam.vn/"><img src="Flag_of_Vietnam.png" alt="NZ" /></a>}}) \n
 Research Professor, Ph.D. \n 
-[Research Institute of Computer, Information and Communication] \n
 [http://www.pusan.ac.kr/eng/ Pusan National University] \n
-\n
-{{<div id="Contact">}}
-== Contact
-310, Advanced Biomedical Convergence (ABC) Center, Pusan National University, \n
-Yangsan Campus, 49, Busandaehak-ro, Mulgeum-eup, Yangsan-si, \n
-Gyeongsangnam-do, Republic of Korea \n
-Email: [vietpq90@gmail.com]/[vietpq@pusan.ac.kr]
-
-{{<div id="Education">}}
-== Education
-- HSDG Donggia High School, Haiduong, Vietnam, 2008.
-- B.S. Electronics and Telecommunications, [http://fet.hust.edu.vn/index.php/en School of Electronics and Telecommunications], [http://en.hust.edu.vn/home Hanoi University of Science and Technology], Vietnam, 2013.
-	-- Major: Electronics and Telecommunications
-	-- Thesis: Building an observational data processing and archiving center for automatic water level gathering and alarming system (in Vietnamese)
-- M.S. Computer Sciences, [http://cnl.inje.ac.kr/ Computer Network Lab], [http://www.inje.ac.kr/ Inje University], Korea, 2015.
-	-- Major: Wireless Networks and Communications
-	-- Thesis: Multi-Timescale Cross-Layer Designs for Wireless Multihop Networks
-- Ph.D. Computer Sciences, [http://cnl.inje.ac.kr/ Wireless Networks Laboratory], [http://www.inje.ac.kr/ Inje University], Korea, 2015-2017.
-	-- Major: Wireless Networks and Communications
-	-- Thesis: Energy-Efficient Resource Allocation in Future Wireless Networks
-{{</div>}}	
-
-{{<div id="News">}}
-== News
+- E-mail: vietpq@pusan.ac.kr
+- Skype: vietpq90@hotmail.com
+- Phone: +82-10-2158-5224
+- Profiles: Google Scholar, ResearchGate, LinkedIn, ORCID, Scopus, and Publons
+- Address: No. 310-2, ABC Center, Pusan National University, Yangsan Campus, 49, Busandaehak-ro, Mulgeum-eup, Yangsan-si, Gyeongsangnam-do 50612, Korea
 ~~~
-- Our paper submitted to the IEEE transaction on vehicular technology has been under revision. \n
-- I am going to have a qualification exam in 25th March 2017.  \n
-- I am preparing for the PhD dissertation and the final defense is within May 2017. \n
-- I am looking for the Post-Doc position in the area of wireless networks. 
+
+{{<div id="Research Interests">}}
+== Research Interests
+- Edge Computing and Resource Optimization
+- Wireless for AI (Wireless AI)
+- Machine Learning for Future Networks
 {{</div>}}
 
-{{<div id="Fields of Research Interest">}}
-== Fields of Research Interest
-- Cross-layer designs for multi-hop wireless networks
-- Resource allocation in wireless networks
-- Resource allocation in complex communication networks
-{{</div>}}
-
-{{<div id="Research Methods">}}
-== Research Methods
-- Network Optimization
-- Game Theory
-{{</div>}}
-
-{{<div id="Journal publications">}}
-== Journal publications
-- Q.-V. Pham and W.-J. Hwang, "Energy-Efficient Power Control in Uplink Spectrum-Sharing Heterogeneous Networks", *under review*,/Computer Networks/, 2017.
-- Q.-V. Pham and W.-J. Hwang, "Fairness-Aware Spectral and Energy Efficiency in Spectrum-Sharing Wireless Networks", *major revision*, /IEEE Transactions on Vehicular Technology/, 2017.
-- Q.-V. Pham and W.-J. Hwang, "Fairness-Aware Resource Allocation in Non-Orthogonal Multiple Access Systems", in preparation.
-- F. Boabang, Q.-V. Pham, H.-H. Nguyen, W.-J. Hwang, "Network-assisted Distributed Fairness-aware Interference Coordination for Device to Device Communication Underlaid Cellular networks", /Mobile Information Systems/, Vol. 2017, pp. 1-11, 2017.
-- Q.-V. Pham and W.-J. Hwang, “Network Utility Maximization based Congestion Control over Wireless Networks: A Survey and Potential Directives,” *in press*, /IEEE Communications Surveys & Tutorials/, Nov. 2016.
-- Q.-V. Pham and W.-J. Hwang, “Resource Allocation for Heterogeneous Traffic in Complex Communication Networks,” /IEEE Transactions on Circuits and Systems II - Express Brief/, vol. 63, no. 10, pp. 959-963, Oct. 2016.
-- Q.-V. Pham, H. L. To, and W.-J. Hwang, “A Multi-Timescale Cross-Layer Approach for Wireless Ad Hoc Networks,” Vol. 18, pp. 471-482, Sep. 2015.
-- Q.-V. Pham, H. Kim, and W.-J. Hwang, “Globally Optimal Solutions for Cross-Layer Design in Fast-Fading Lossy Delay-Constrained MANETs,” /Journal of Korea Multimedia Society/, vol. 18, no. 2, pp. 168–177, Feb 2015. 
-- Q.-V. Pham and W.-J. Hwang, “Network Utility Maximization in Multipath Lossy Wireless Networks,” *in press*, /International Journal of Communications and System/, Aug. 2015.
-{{</div>}}
-
-{{<div id="Conferences and Proceedings">}}
-== Conferences and Proceedings
-- Q.-V. Pham and W.-J. Hwang, Outage Constrained Resource Allocation for Energy Efficiency in Coordinated Multicell OFDMA Networks, /Japan-Korea Joint Workshop on Complex Communication Sciences (KJCCS2016)/, Oct. 2016. (*Best paper award*)
-- Q.-V. Pham, M. Hasegawa and W.-J. Hwang, An Energy-Efficient Resource Allocation in Ad Hoc Networks, /Korea-Japan Joint Workshop on Complex Communication Sciences (KJCCS2016)/, Jan. 2016.
-- Q.-V. Pham, A. Radwan, W.-J. Hwang, Optimal Resource Allocation for Energy Efficiency in Uplink Heterogeneous Networks, /Proceedings of The 2015 Fall Conference of KMMS (Korea MultimediaSociety)/, vol. 18, no. 2, Nov. 2015.
-- Q.-V. Pham, A. Radwan, W.-J. Hwang, Hop-by-Hop Rate Control in Multipath Lossy Wireless Networks, /Proceedings of The 2015 Spring Conference of KMMS (Korea MultimediaSociety)/, vol. 18, no. 1, May. 2015.
-- Q.-V. Pham, W.-J. Hwang, A Novel Cross-Layer Design for Fast-Fading Multihop Wireless Networks, /Proceedings of The 2014 Fall Conference of KMMS (Korea MultimediaSociety)/, vol. 17, no.2, Nov. 2014. (*Best paper award*)
-- Q.-V. Pham, W.-J. Hwang, A Novel Handover Algorithm in LTE Small Cell Networks, /Proceedings of The 2014 Spring Conference of KMMS (Korea MultimediaSociety)/, vol. 17, no. 1, May. 2014.
-- Q.-V. Pham, W.-J. Hwang, Joint Inter-cell Interference Management and Mobility-aware Prediction in LTE Femtocell Networks,  /Proceedings of The 2013 Fall Conference of KMMS (Korea MultimediaSociety)/, vol.16, no.2, Nov. 2013.
+{{<div id="Recent News">}}
+== Recent News
 ~~~
+- \[01/2022\] Our work on [https://ieeexplore.ieee.org/document/9569742 blockchain for edge of things] edge computing + IoT) has been published by the IEEE Internet of Things Journal. \n
+- \[12/2021\] I have received the golden globe award 2021 from the Ministry of Science and Technology, Vietnam. \n
+- \[12/2021\] I have received an award from the Minister of Education (Korea) for outstanding contributions and research excellence. \n
+- \[10/2021\] Massive congratulations to [tu.nguyen@nu.edu.kz Dr. Tu Nguyen]. We won the FDCRGP Grant (\$135,000 for 2022-2024) for our research on Edge Learning for Video Surveillance. \n
+- \[10/2021\] Our work on [https://ieeexplore.ieee.org/document/9584850 DRL for energy-efficient FL-UAV] has been accepted by the IEEE Communications Letters. \n
+- \[10/2020] One postdoc position is available in my research group. Please contact me or [wjhwang@pusan.ac.kr prof. Won-Joo Hwang] if you are interested. \n
+- \[09/2021\] Our work on [https://ieeexplore.ieee.org/document/9555379 fog computing for vehicular networks] has been accepted by the IEEE Transactions on Vehicular Technology. \n
+- \[08/2021\] Our works on [https://ieeexplore.ieee.org/document/9528850 secrecy cooperative NOMA] and [https://ieeexplore.ieee.org/document/9525446 UAV communications] have been accepted by the IEEE Internet of Things Journal. \n
+- \[08/2021\] Our collaborative work on [https://ieeexplore.ieee.org/abstract/document/9514563 reconfigurable intelligent surfaces] has been accepted by the IEEE Transactions on Communications. \n
+- \[07/2021\] Congratulations [https://sites.google.com/site/thienhuynhthe/home Dr. Huynh], our work on [https://ieeexplore.ieee.org/document/9475953 radar waveform recognition] has been accepted by the IEEE Communications Letters. \n
+- \[06/2021\] Our work on [https://www.sciencedirect.com/science/article/abs/pii/S1084804521001582 swarm intelligence for next-generation networks] has been published by the Journal of Network and Computer Applications. \n
+- \[05/2021\] We are organizing a special issue on ``[https://ieee-iotj.org/wp-content/uploads/2021/05/AIOT_CFP.pdf Aerial Computing for the Internet-of-Things (IoT)]" in the IEEE Internet of Things Journal and the call for papers can be found at CFP. \n
+- \[04/2021\] Congratulations to [https://sites.google.com/view/dinh-chi-nguyen/home Dr. Dinh C. Nguyen] for our IEEE survey on [https://ieeexplore.ieee.org/abstract/document/9403374 federated learning-blockchain-MEC]. \n
+- \[03/2021\] My work on UAV for [https://ieeexplore.ieee.org/document/9374105 federated learning] has been accepted by the IEEE Transactions on Vehicular Technology. \n
+- \[02/2021\] Congratulations to Dr. Ming for his IEEE WCL paper on [https://ieeexplore.ieee.org/document/9369326 energy-efficient IRS] and and N. Iradukunda for her paper on [https://ieeexplore.ieee.org/document/9364991 UAV-NOMA wireless backhaul]. \n
+- \[02/2021\] Great news! Our survey on [https://ieeexplore.ieee.org/document/9358097 aerial radio access networks] has been accepted for publication in the IEEE Communications Surveys and Tutorials. \n
+- \[01/2021\] I have received the [Rv_Award_TVT_2020.pdf Top Reviewer Award] from IEEE Transactions on Vehicular Technology in 2020.
+- \[10/2020\] HOT!!! I have been invited as an editor of the [https://www.journals.elsevier.com/journal-of-network-and-computer-applications Journal of Network and Computer Applications] [Q1, IF 6.281]
+- \[10/2019\] My paper on [https://ieeexplore.ieee.org/document/8917566 MEC-NOMA using coalitional games] has been published by the IEEE Transactions on Vehicular Technology.
+- \[12/2018\] Congratulations!!! for a new 5-years project from Korea NRF.
+{{</div>}}
+
+{{<div id="About Me">}}
+== About Me
+Quoc-Viet Pham (M'18) received the B.S. degree in electronics and telecommunications engineering from the Hanoi University of Science and Technology, Vietnam, in 2013, and the Ph.D. degree in telecommunications engineering from Inje University, Republic of Korea, in 2017. He has been a Research Professor with Pusan National University, Republic of Korea, since Feb. 2020.
+
+He is specialized in applying convex optimization, game theory, and machine learning to analyze and optimize edge computing and future wireless communications. He has been granted the Korea NRF Funding for outstanding young researchers for the term 2019–2024. He has been a TPC/TPC chair for leading conferences, including IEEE ICC, IEEE VTC, and EAI GameNets. He is an editor of the Journal of Network and Computer Applications (Elsevier), an associate editor of the Frontiers in Communications and Networks, and a lead guest editor of the IEEE Internet of Things Journal. He was also the recipient of the Best Ph.D. Dissertation Award in engineering from Inje University in 2017, the Top Reviewer Award from the IEEE Transactions on Vehicular Technology in 2020, the golden globe award 2021 from the Ministry of Science and Technology (Vietnam), and the award for outstanding contributions and research excellence from Minister of Education (Korea) in 2021.

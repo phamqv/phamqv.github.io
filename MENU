@@ -1,8 +1,13 @@
 Home
-	Quoc-Viet PHAM 			[index.html]
-Course Works       	
-	Network Optimization 	[networkoptimization.html]
-	Game Theory		        [gametheory.html]
-	Wireless Networking		[wirelessnetworking.html]	
-	Stochastic Geometry		[stochasticgeometry.html]
+	Quoc-Viet PHAM 				[index.html]
+	Education and Work 			[Eduwork.html]
+Research      	
+	Publication					[Publication.html]
+	Professional Activities 	[Activity.html]
+	Grants and Awards			[Grantaward.html]
+	Supervision and Teaching  	[Supervision.html]
+Miscellany	
+	Courseworks					[coursework.html]
+	Datasets					[dataset.html]
+	Jemdoc 						[http://jemdoc.jaboc.net/]
 # vim: et

@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{dataset.html}
+# jemdoc: title{Datasets}
+= Datasets
+
+
+- Microsoft malware classification challenge (BIG 2015): [https://www.kaggle.com/c/malware-classification/data https:\/\/www.kaggle.com\/c\/malware-classification\/data]
+- Recordings of digital and analog modulation types (RadioML): [https://www.deepsig.io/datasets https:\/\/www.deepsig.io\/datasets]
+- Power allocation in multi-cell massive MIMO: [https://data.ieeemlc.org/Ds2Detail https:\/\/data.ieeemlc.org\/Ds2Detail]
+- IEEE Machine Learning for Communications ETI: [https://mlc.committees.comsoc.org/ https:\/\/mlc.committees.comsoc.org/]
+- Drone detection and classification: [https://ieee-dataport.org/open-access/drone-remote-controller-rf-signal-dataset https:\/\/ieee-dataport.org\/open\-access\/drone-remote-controller-rf-signal-dataset ]
