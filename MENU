@@ -1,13 +1,13 @@
 Home
 	Home 						[index.html]
 	Education and Work 			[eduwork.html]
-Research      	
-	Publication					[publication.html]
+Research
+	Publications				[publication.html]	
 	Professional Activities 	[activity.html]
 	Grants and Awards			[grantaward.html]
-	Supervision and Teaching  	[supervision.html]
+	Research Team				[team.html]	
+	Teaching 					[teaching.html]
 Miscellany	
-	Courseworks	and Ebooks		[coursework.html]
+	Ebooks						[ebook.html]
 	Datasets					[dataset.html]
-	Jemdoc 						[http://jemdoc.jaboc.net/]
 # vim: et
