@@ -1,9 +1,10 @@
 COIN-Lab@TCD
-	Home 						[index.html]
-	Members 					[member.html]
-	Collaborators 				[collaborator.html]
-	Openings					[opening.html]
-	Publications				[publication.html]	
-	Funding						[grantaward.html]
-	Contact						[contact.html]
-# vim: et
+	Home 				[home.html]
+	Team Members		[team.html]	
+	Openings			[opening.html]
+Research
+	Publications		[../publication.html]	
+	Funding				[funding.html]
+Contact
+	Contact				[contact.html]	
+	
