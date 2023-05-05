@@ -252,7 +252,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Copyright @2023 COIN-TCD. Last Updated: |.
+  Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 
   [sourcelink]
   (<a href="|">source</a>)
