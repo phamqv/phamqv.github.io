@@ -1,13 +1,13 @@
 Home
 	Home 						[index.html]
 	Education and Work 			[eduwork.html]
-Research
-	Publications				[publication.html]	
+Research	
+	Publications				[publication.html]
 	Professional Activities 	[activity.html]
 	Grants and Awards			[grantaward.html]
 	COIN-Lab					[COIN\home.html]	
-	Teaching 					[teaching.html]
-Miscellany	
+Teaching	
+	Modules 					[teaching.html]
 	Ebooks						[ebook.html]
 	Datasets					[dataset.html]
 # vim: et
