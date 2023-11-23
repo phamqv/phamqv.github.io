@@ -2,29 +2,57 @@
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>COIN-Lab@TCD</title>
-</head>
-<body>
-<table summary="Table for page layout." id="tlayout">
-<tr valign="top">
-<td id="layout-menu">
+<link rel="icon" href="./images/icon.png">
+<link rel="stylesheet" href="main.css" type="text/css" />
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--- <title>COIN-Lab@TCD</title> --->
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+<div id="main-container">
+<div id="header-container">
+<div id="header">
+<div id="header-icon-text-container">
+<div id="header-icon-container" >
+<a href="home.html"><img src="./images/header.png" alt="" style="width: 100%; height: 100%; position: center; padding:0px; margin: 0px;"></a>
+</div>
+<div id="header-text-container">
+<a href="index.html">COIN-Lab@TCD</a>
+</div>
+</div>
+<div id="main">
+<button class="openbtn" onclick="openNav()">☰</button>
+</div>
+</div>
+</div>
+<div id="layout">
+<div id="layout-menu-container">
+<div id="layout-menu">
+<div class="menu-item"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a></div>
 <div class="menu-category">COIN-Lab@TCD</div>
-<div class="menu-item"><a href="home.html">Home</a></div>
-<div class="menu-item"><a href="team.html">Team&nbsp;Members</a></div>
-<div class="menu-item"><a href="collaborator.html">Collaborators</a></div>
+<div class="menu-item"><a href="home.html"|3>Home</a></div>
+<div class="menu-item"><a href="team.html"|3>Team&nbsp;Members</a></div>
 <div class="menu-category">Research</div>
-<div class="menu-item"><a href="..\publication.html">Publications</a></div>
-<div class="menu-item"><a href="funding.html">Funding</a></div>
+<div class="menu-item"><a href="..\publication.html"|3>Publications</a></div>
+<div class="menu-item"><a href="funding.html"|3>Funding</a></div>
 <div class="menu-category">Openings</div>
-<div class="menu-item"><a href="opening.html">Openings</a></div>
-<div class="menu-item"><a href="contact.html" class="current">Contact</a></div>
-</td>
-<td id="layout-content">
+<div class="menu-item"><a href="opening.html"|3>Openings</a></div>
+<div class="menu-item"><a href="contact.html" class="current"|3>Contact</a></div>
+</div> <!-- <div id="layout-menu"> -->
+</div> <!-- <div id="layout-menu-container"> -->
+<div id="layout-content-container">
+<div id="layout-content">
 <div id="toptitle">
-<h1>COIN - Contact Details</h1>
+<h1>Contact Details</h1>
 </div>
 <p>Pleas feel free to email or drop by office for contacting Dr. Pham. You may consider a call to fix an appointment.</p>
 <p><div id="Principal Investigator"></p>
@@ -41,13 +69,36 @@
 <h2>At Work</h2>
 <p>You can find Dr. Pham at his office located at 4.10, CONNECT Centre, Dunlop Oriel House, 34 Westland Row, 8PRX+RV Dublin, Ireland.</p>
 <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2382.0672715060036!2d-6.252936923319985!3d53.34205197228804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e90e0c600cf%3A0x9ad142d3ea06fd2!2sCONNECT%20Centre%2C%20Trinity%20College%20Dublin%2C%20the%20University%20of%20Dublin!5e0!3m2!1sen!2sie!4v1683449335645!5m2!1sen!2sie" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+</div> <!-- <div id="layout-content"> -->
+<div id="footer-container">
 <div id="footer">
 <div id="footer-text">
-Copyright @2023 COIN-TCD. Last Updated: 2023-08-24 11:57:25 GMT Daylight Time.
-</div>
-</div>
-</td>
-</tr>
-</table>
+Copyright @2017-2023 COIN-TCD. Last edited  on 2023-11-23 12:21:30 GMT Standard Time. </br>
+</div> <!-- <div id="footer-text"> -->
+</div> <!-- <div id="footer"> -->
+</div> <!-- <div id="footer-container"> -->
+</div> <!-- <div id="layout-content-container"> -->
+</div> <!--- <div id="layout"> --->
+</div> <!--- <div id="main-container"> --->
+<script>
+function openNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "225px";
+        document.getElementById("layout-content-container").style.marginLeft = "225.8px";
+        document.getElementById("layout-content-container").style.position = "fixed";
+    }
+}
+function closeNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "0";
+        document.getElementById("layout-content-container").style.position = "static";
+        document.getElementById("layout-content-container").style.marginLeft = "0px";
+        setInterval(
+            function(){ location.reload() },
+            500
+        );
+    }
+}
+</script>
 </body>
 </html>
